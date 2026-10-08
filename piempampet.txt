@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ne ne ne
+=======
+Bla bla blie bloe
+>>>>>>> color-feature
